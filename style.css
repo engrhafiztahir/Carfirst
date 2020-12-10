@@ -1,0 +1,69 @@
+.textrap
+{
+    text-align: left; 
+    display: block;
+     margin-block-start: 1em; 
+     margin-block-end: 1em; 
+     margin-inline-start: 0px; 
+     margin-inline-end: 0px;
+     color: #002f34;
+    font-size: 16px;
+    font-family: sans-serif;
+    font-weight: 400;
+    line-height: 1.5;
+    box-sizing: inherit;
+}
+.textrapheading
+{
+    text-align: left; 
+    font-weight: 700; 
+    font-size: 16px;
+    font-family: Montserrat,sans-serif;
+    margin-left: -30px;
+}
+.textrapicture
+{
+    width: 22px;
+}
+.headertextrap
+{
+
+font-size: 2rem ;
+color:white; 
+text-align: left;
+padding-bottom: 1rem;
+line-height: 1.25;
+font-weight: 700;
+}
+.headertextpara
+{
+    line-height: 24px;
+    font-weight: 400;
+text-align: left;
+font-size: 16px;
+font-family: Montserrat,sans-serif;
+}
+.badge
+{
+   margin-top: 400px;
+}
+.bottomimages
+{
+    margin-left: 400px;
+    float: left;
+}
+.button {
+    background-color: #FAFBFB;
+    color:black;
+    text-align: center;
+    overflow: visible;
+    font-size: 16px;
+    font-weight: bold;
+    line-height: 40px;
+    padding: 0 16px;
+    border: 2px solid black;
+    margin-left: 45%;
+    
+  }
+  
+  .button5 {border-radius: 9999px;}

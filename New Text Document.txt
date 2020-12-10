@@ -1,0 +1,8 @@
+ project: C:\Users\Tahir\Desktop\Erozgar
+         domain: carfirst.surge.sh
+         upload: [====================] 100% eta: 0.0s (12 files, 737976 bytes)
+            CDN: [====================] 100%
+     encryption: *.surge.sh, surge.sh (136 days)
+             IP: 138.197.235.123
+
+   Success! - Published to carfirst.surge.sh
